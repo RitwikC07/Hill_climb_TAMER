@@ -1,4 +1,3 @@
-# pyirl
 Based on https://github.com/benibienz/TAMER.
 This is a library containing popular interactive reinforcement learning algorithms.
 - **TAMER** (Training an Agent Manually via Evaluative Reinforcement) is a framework for human-in-the-loop Reinforcement Learning, proposed by [Knox + Stone](http://www.cs.utexas.edu/~sniekum/classes/RLFD-F16/papers/Knox09.pdf) in 2009. 
